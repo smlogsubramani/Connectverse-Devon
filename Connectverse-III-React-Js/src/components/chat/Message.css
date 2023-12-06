@@ -1,0 +1,46 @@
+.sender-message {
+  background-color: #f8e896;
+  width: 15rem;
+  height: fit-content;
+  text-align: left;
+  border: 1px solid #dfd087;
+  border-radius: 10px;
+}
+
+.message-timestamp-sender {
+  font-size: 0.85em;
+  font-weight: 300;
+  float: right;
+}
+.message-content {
+  padding: 0.4em;
+  margin: 0;
+}
+.userimg {
+  border-radius: 100%;
+  width: 3em;
+  height: 3em;
+}
+.sender {
+  display: flex;
+  gap: 1rem;
+  justify-content: end;
+}
+.reciever-message {
+  background-color: #a8ddfd;
+  width: 15rem;
+  height: 5rem;
+  text-align: left;
+  border: 1px solid #a8ddfd;
+  border-radius: 10px;
+}
+.reciever {
+  display: flex;
+  gap: 1rem;
+  justify-content: start;
+}
+.message-timestamp-reciever {
+  font-size: 0.85em;
+  font-weight: 300;
+  float: left;
+}

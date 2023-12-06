@@ -1,0 +1,11 @@
+.stats-container {
+  font-family: "Roboto", sans-serif;
+  width: 25rem;
+  height: 15rem;
+  background-color: #e9e8e8;
+  color: #050850;
+}
+.stats-no {
+  font-family: "Roboto", sans-serif;
+  color: #050850;
+}

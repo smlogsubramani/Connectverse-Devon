@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Larsen & Toubro",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://corpwebstorage.blob.core.windows.net/media/30212/1.jpg",
+        "noOfEmployees": 337994,
+        "description": "Larsen & Toubro Ltd, commonly known as L&T, is an Indian multinational conglomerate company, with business interests in engineering, construction, manufacturing,",
+        "ownedBy": "Larsen & Toubro Multinational conglomerate company",
+        "gstNumber": "33AAACL0140P1ZQ"
+    },
+    {
+        "id": "bff64fc2-0846-4cde-990d-cffd8a2648cc",
+        "name": "Larsen & Toubro",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://corpwebstorage.blob.core.windows.net/media/30212/1.jpg",
+        "noOfEmployees": 337994,
+        "description": "Larsen & Toubro Ltd, commonly known as L&T, is an Indian multinational conglomerate company, with business interests in engineering, construction, manufacturing,",
+        "ownedBy": "Larsen & Toubro Multinational conglomerate company",
+        "gstNumber": "33AAACL0140P1ZQ",
+        "employerUpdated": {
+            "firstName": "Ajith",
+            "lastName": "Kumar",
+            "age": 48,
+            "aadharId": "888888888888",
+            "gender": "MALE",
+            "email": "ajith@ultimatestar.com",
+            "mobileNumber": 8888888888,
+            "address": "bla bla bla",
+            "location": "Chennai"
+        }
+    },
+    {
+        "name": "Tata Projects Limited",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQETr2KksqsQzg/company-logo_200_200/0/1616144050773?e=1661385600&v=beta&t=Nt7CCjYIHDfupeE8P2Z6ZqyYIEbDfhXLn4It-XnrZXY",
+        "noOfEmployees": 11686,
+        "description": "Tata Projects is one of the fastest growing and most admired industrial infrastructure companies in India. We have expertise in executing large and complex urban and industrial infrastructure projects",
+        "ownedBy": "Prasad Menon",
+        "gstNumber": "33AAACT4119L1ZF"
+    },
+    {
+        "name": "Hindustan Construction Company Limited",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGxz_ZEz8T0eQ/company-logo_200_200/0/1519856986214?e=2147483647&v=beta&t=rXidoPtS5aEa6ndOVTt9lkxCfxusvAcaQ5yM5mqnanY",
+        "noOfEmployees": 1100,
+        "description": "Hindustan Construction Company Limited or HCC Limited is a construction company headquartered in Mumbai, India, whose businesses span the sectors of Engineering & Construction, Real Estate, Infrastructure, Urban development & Management.",
+        "ownedBy": "Ajit Gulabchand",
+        "gstNumber": "07AAACH0968B1ZY"
+    },
+    {
+        "name": "AFCONS Infrastructure Limited",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://companies.naukri.com/afcons-dev/wp-content/uploads/sites/30501/2019/10/og-logo.png",
+        "noOfEmployees":  6590,
+        "description": "Afcons is a part of the Shapoorji Pallonji Group, one of India’s leading engineering and construction conglomerates. We are one of the top infrastructure development companies in India, with a diverse experience of on-time execution of over 350 infrastructure projects in more than 25 countries.",
+        "ownedBy": "Shapoorji Pallonji Group",
+        "gstNumber": "29AAACA9067G1ZH"
+    },
+    {
+        "name": "Gammon India Limited",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "http://bsmedia.business-standard.com/_media/bs/img/article/2013-03/14/full/1363236757-6827.jpg",
+        "noOfEmployees": 4137,
+        "description": "Gammon India is not only one of the largest civil engineering construction companies in India, but can also lay claim to having built the maximum number of bridges in the whole of the commonwealth. For nearly a century Gammon has been undertaking and executing the toughest engineering and construction projects",
+        "ownedBy": "John C. Gammon",
+        "gstNumber": "33AAACG3821A1ZG"
+    },
+    {
+        "name": "Reliance Infrastructure",
+        "email": "info.connectverse@gmail.com",
+        "imageUrl": "https://www.rinfra.com/image/layout_set_logo?img_id=10546727&t=1660434786999",
+        "noOfEmployees": 5718,
+        "description": "Reliance Infrastructure Limited, formerly Reliance Energy Limited and Bombay Suburban Electric Supply, is an Indian private sector enterprise involved in power generation, infrastructure, construction and defence.",
+        "ownedBy": "Anil D Ambani",
+        "gstNumber": "27AACCR7446Q2ZL"
+    }
+]

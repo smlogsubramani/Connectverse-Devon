@@ -1,0 +1,20 @@
+1) ppt
+2) esharm db data entry
+3) ml models and django server i) data sets for predicting working hrs
+4) hindi convert in pages
+
+MALE, FEMALE, TRANSGENDER
+Tamil Nadu, Kerala, Andhra Pradesh, Karnataka
+
+Cheyyar Thiruvannamalai 
+Cheyyur Kanchipuram
+Tindivanam Villupuram
+
+
+AC471f5114be824dc1d574867b974e69da
+
+ded7c9df8f02a7fc92708e258621d72a
+
++17083049108
+
+http://192.168.1.6:8001

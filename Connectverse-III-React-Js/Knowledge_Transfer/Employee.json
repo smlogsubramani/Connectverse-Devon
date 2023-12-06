@@ -1,0 +1,61 @@
+[
+    {
+        "id": "",
+        "firstName": "",
+        "lastName": "",
+        "age": "",
+        "gender": "",
+        "prefferedWorkType": "FARMING",
+        "cvUrl": "",
+        "email": "",
+        "mobileNumber": "",
+        "address": "",
+        "location": "",
+        "state": "",
+        "readyToRelocate": "Yes",
+        "hasDrivingLicence": "Yes",
+        "hasVehicle": "Yes",
+        "expectedWagePerHour": "",
+        "expectedWorkingHoursPerWeek": "",
+        "isTechnicalWorker": "No",
+        "isOccupied": "No",
+        "adminOfProject": {
+            "id": 1,
+            "tittle": "connectverse"
+        },
+        "requestedProjects": [
+            {
+                "id": 1,
+                "tittle": "connectverse"
+            },
+            {
+                "id": 2,
+                "tittle": "martydom"
+            }
+        ],
+        "projects": [
+            {
+                "id": 1,
+                "tittle": "connectverse"
+            },
+            {
+                "id": 2,
+                "tittle": "martydom"
+            }
+        ],
+        "jobsApplied": [
+            {
+                "id": 1,
+                "tittle": "swiggy delivery"
+            },
+            {
+                "id": 2,
+                "tittle": "ola driver"
+            }
+        ],
+        "job": {
+            "id": 1,
+            "tittle": "swiggy delivery"
+        }
+    }
+]

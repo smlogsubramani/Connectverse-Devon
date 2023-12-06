@@ -1,0 +1,19 @@
+.project-container {
+  /* background-color: #080c78; */
+  border-radius: 24px;
+  color: #080c78;
+  box-shadow: -1px 1px 5px 0px rgba(145, 154, 255, 0.75);
+}
+.projects-desc {
+  font-size: 35px;
+  padding: 30px;
+  font-weight: 500;
+}
+.projects-status {
+  font-size: 25px;
+  font-weight: 500;
+}
+.light {
+  font-weight: 400;
+  font-size: 20px;
+}

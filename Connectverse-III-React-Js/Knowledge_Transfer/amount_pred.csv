@@ -1,0 +1,4 @@
+age, gender, workLessThan21hrsperweek, workType, wagePerHour
+18, 0, 0, 0, 40
+45, 0, 1, 2, 60
+35, 1, 0, 4, 90

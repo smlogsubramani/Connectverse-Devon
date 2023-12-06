@@ -1,0 +1,48 @@
+.course-header {
+    /* background-image: url("../images/CourseDetail.jpeg"); */
+    padding: 6%;
+}
+
+.course-contents {
+    border-top: 1px solid #bfbfbf;
+    padding-bottom: 60px;
+}
+
+.course-features {
+    font-family: 'Crimson Text', serif;
+    font-family: 'Great Vibes', cursive;
+    border-radius: 1%;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-top: 1px solid #bfbfbf;
+    margin-bottom: 2%;
+}
+
+.course-feature {
+    text-align: center;
+    border: 3px solid #999;
+    border-radius: 5%;
+    margin: 5%;
+    padding: 5%;
+}
+
+.feature-icon {
+    color: #999;
+    margin-bottom: 5%;
+}
+
+.course-video {
+    text-align: center;
+}
+
+.side-headings {
+    text-align: left;
+    padding: 1%;
+    border-bottom: 1px solid #999;
+}
+
+.project-content {
+    padding: 2%;
+    text-align: justify;
+    word-spacing: 10px;
+    line-break: auto;
+}

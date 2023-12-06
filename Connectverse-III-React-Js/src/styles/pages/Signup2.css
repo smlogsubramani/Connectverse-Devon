@@ -1,0 +1,79 @@
+.signup-img {
+  width: 500px;
+  height: 500px;
+}
+.form-scrollable {
+  height: 70vh;
+  overflow-y: auto;
+  /* margin: 100px; */
+}
+.desc {
+  color: #938787;
+  font-size: 21px;
+  font-style: bold;
+}
+::-webkit-scrollbar {
+  /* width: 10px; */
+  display: none;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #050850;
+  border-radius: 10px;
+}
+.signup-label {
+  font-size: 15px;
+  color: #050850;
+}
+.signup-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  color: #555;
+}
+.signup-input:focus {
+  outline: none;
+  border-bottom: 1px solid #050850;
+}
+
+.logo {
+  color: #050850;
+  margin-bottom: 10px;
+}
+.signin-navigator {
+  text-decoration: none;
+  color: #050850;
+  font-size: 12px;
+  text-align: end;
+}
+.signup-btn {
+  margin: 2rem;
+  margin-bottom: 1rem;
+  padding: 5px;
+  width: 150px;
+  color: white;
+  background-color: #050850;
+  border-radius: 54px;
+  font-size: 20px;
+  font-style: bold;
+  text-align: center;
+  margin-left: 2.3em;
+  border: none;
+}
+@media (max-width: 800px) {
+  .signup-img {
+    display: none;
+  }
+  .form-center {
+    text-align: center;
+  }
+  .form-scrollable {
+    height: auto;
+  }
+}

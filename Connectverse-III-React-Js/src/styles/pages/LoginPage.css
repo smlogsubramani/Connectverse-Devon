@@ -1,0 +1,154 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  display: flex;
+}
+.login-img {
+  max-inline-size: 100%;
+  object-fit: contain;
+  block-size: auto;
+}
+.log-btn svg {
+  max-inline-size: 10%;
+}
+aside {
+  width: 62.5rem;
+}
+section {
+  display: grid;
+  grid-template-rows: 8rem 15rem 5rem;
+  margin: 10rem;
+}
+header {
+  text-align: center;
+}
+.logo span {
+  color: #608dfd;
+  font-style: Bold;
+}
+.desc {
+  color: #938787;
+  font-size: 21px;
+  font-style: bold;
+}
+.form_wrap label {
+  font-size: 20px;
+  color: grey;
+}
+.form_wrap input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  color: #555;
+}
+.form_wrap input:focus {
+  outline: none;
+  border-bottom: 1px solid #000;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.forgot {
+  text-decoration: none;
+  color: #000;
+  text-align: end;
+  font-size: 16px;
+  color: #938787;
+}
+.form_submit {
+  padding: 5px;
+  width: 150px;
+  color: white;
+  background-color: #1b2e35;
+  border-radius: 54px;
+  font-size: 1.5rem;
+  font-style: bold;
+  text-align: center;
+  margin-left: 2.3em;
+}
+.alternate {
+  text-align: center;
+}
+.log-btn {
+  width: 13rem;
+  align-items: center;
+  padding: 5px;
+  display: flex;
+  gap: 5px;
+  justify-content: space-around;
+  color: black;
+  font-size: large;
+  border: none;
+  background-color: #fff;
+}
+.signup {
+  display: flex;
+  gap: 1rem;
+
+  color: #000;
+  text-align: end;
+  font-size: 14px;
+}
+.signup a {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+.google_login {
+  text-align: center;
+  margin-left: 30px;
+}
+
+.seperator {
+  width: 40%;
+  display: inline-block;
+}
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.or {
+  margin-top: 40px;
+}
+.or span {
+  padding: 17px;
+}
+@media (max-width: 800px) {
+  main {
+    display: flex;
+    justify-content: space-around;
+  }
+  aside {
+    display: none;
+  }
+  .or span {
+    padding: 15px;
+  }
+  section {
+    grid-template-rows: 8rem 12rem 5rem;
+    margin: 4rem;
+  }
+}
+@media (min-width: 800px) and (max-width: 1024px) {
+  main {
+    display: flex;
+    justify-content: space-between;
+  }
+  .login-img {
+    width: 500px;
+    height: 500px;
+    margin: 5em;
+    margin-top: 10em;
+  }
+  .or span {
+    padding: 13px;
+  }
+} */

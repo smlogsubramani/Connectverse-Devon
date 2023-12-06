@@ -1,0 +1,1836 @@
+{
+  "AppSettings": {
+    "baseUrl": "http://localhost:8080"
+  },
+  "Header": {
+    "title": "Connectverse",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "",
+    "Why": [
+      "we provide more jobs",
+      "we have good exposure with reputated companies",
+      "we treat workers fairly for their work",
+      "together we grow the nation's econamy"
+    ],
+    "Why2": [
+      "Availability of jobs for any person",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/01-large.jpg",
+      "smallImage": "images/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/02-large.jpg",
+      "smallImage": "images/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/03-large.jpg",
+      "smallImage": "images/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/04-large.jpg",
+      "smallImage": "images/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/05-large.jpg",
+      "smallImage": "images/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/06-large.jpg",
+      "smallImage": "images/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/07-large.jpg",
+      "smallImage": "images/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/08-large.jpg",
+      "smallImage": "images/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "images/portfolio/09-large.jpg",
+      "smallImage": "images/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-shield",
+      "name": "Security",
+      "text": "We keep Connectverse safe, secure, and free of spam and abuse."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Education",
+      "text": "we provide quality education for those who want to learn"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Software",
+      "text": "Subscribe to notifications for new software or download the latest version"
+    },
+    {
+      "icon": "fa fa-headset",
+      "name": "support",
+      "text": "We provide a helpline for the workers to clarify their queries."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "exposure",
+      "text": "press here to look for companies we recenty tied up with."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "consolidate",
+      "text": "We made this wesite so generic so it suits both technical and non-technical workers..."
+    }
+  ],
+ 
+  "Team": [
+    {
+      "img": "./images/Navin.jpg",
+      "name": "Navin@3d",
+      "job": "Director"
+    },
+    {
+      "img": "./images/Ishani_Akka_Senior.jpeg",
+      "name": "Ishani Saravanan",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "./images/Loga.jpeg",
+      "name": "Siva",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "./images/Naveen_Kumar.jpeg",
+      "name": "Naveen Kumar",
+      "job": "Chief Developer"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Technical",
+      "text": "Our website allows the people to learn advanced technical skills to get better job by using various courses provided by us."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Non-Technical",
+      "text": "This website provides a way for unemployed workers to find jobs. We work with a number of company to provide them the manpower they need."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Jobs",
+      "text": "Our job mainly provides information  about the jobs in various industries and different jobs."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Learning",
+      "text": "Utilize the learning resources to upskill yourself for the next job or industry you are interested in! We provide valuable resources about the best jobs in the industry and skills you needto succeed at your desired career."
+    }
+  ],
+  "Courses": [
+    {
+      "id": 1,
+      "tittle": "Excel",
+      "subTittle": "Excel",
+      "provider": "IIT Madras",
+      "skillsGained": "Advanced knowledge in Excel",
+      "jobTittles": "Project Managers, Business Analysts, Data Journalists, Accountants",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": 50,
+      "jobsCanBeApplied": "Can get a job in any Business Based Comapany.",
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/Vl0H-qTclOg",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://www.techadvisor.com/wp-content/uploads/2022/06/howtogetexcelforfree1.png?quality=50&strip=all",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to master Excel.",
+          "subTittles": [
+            "Excel: Essential Training",
+            "Excel: Advanced Formulas and Functions",
+            "Excel: Advanced Formatting Techniques",
+            "Excel: Creating a Basic Dashboard",
+            "Excel: Charts in Depth",
+            "Excel: PivotTables in Depth"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Essential Training",
+          "subTittles": [
+            "Home. Comprises options like font size, font styles, font colour, background colour, alignment, formatting options and styles, insertion and deletion of cells and editing options.",
+            "Insert data",
+            "Page Layout",
+            "Formulas",
+            "Data",
+            "Review",
+            "View"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Advanced Formulas and Functions",
+          "subTittles": [
+            "VLOOKUP Formula in Excel",
+            "INDEX Formula in Excel",
+            "MATCH Formula in Excel",
+            "IF AND Formula in Excel",
+            "IF OR Formula in Excel",
+            "SUMIF Formula in Excel",
+            "CONCATENATE Formula in Excel",
+            "LEFT, MID, and RIGHT Formula in Excel",
+            "OFFSET Formula in Excel",
+            "TRIM Formula in Excel"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "Advanced Formatting Techniques",
+          "subTittles": [
+            "Commands for Changing Fonts, Sizes, and Styles",
+            "Alignment Options",
+            "Indent",
+            "Wrap Text",
+            "Number Formats",
+            "Natural Keyboard Shortcuts",
+            "Borders",
+            "Merging Cells",
+            "Line Break"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "Creating a Basic Dashboard",
+          "subTittles": [
+            "Import your data into Excel",
+            "Clean your data",
+            "Set up your workbook",
+            "Understand your requirements",
+            "Figure out which charts best represent your data",
+            "Filter your data",
+            "Build your chart",
+            "Select your data",
+            "Double-check your data",
+            "Polish your chart",
+            "Repeat the process for other data"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "Charts in Depth",
+          "subTittles": [
+            "Double-check and highlight your data",
+            "Insert a chart",
+            "Select your second chart axis",
+            "Change your second chart type",
+            "Fine-tune your chart",
+            "Add data labels",
+            "Add another variable"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "PivotTables in Depth",
+          "subTittles": [
+            "Pivot Table Field List",
+            "Add or Remove Pivot Fields",
+            "Change the Pivot Table Field List Layout",
+            "Adjust the Field List Width",
+            "Move the Field List",
+            "Sort the Field List",
+            "Defer Layout Update"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tittle": "Database Management System",
+      "subTittle": "SQL",
+      "jobsCanBeApplied": "Can get a job in any Business Based Comapany.",
+      "provider": "IIT Madras",
+      "skills": "Advanced knowledge in Database Management System",
+      "jobTittles": "Database Administrator",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": "50 Days",
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/c5HAwKX-suM",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://lms.gcktvm.in/pluginfile.php/253/course/overviewfiles/IMG-20210628-WA0002-800x445.jpg",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to become a Database Administrator",
+          "subTittles": [
+            "Database Development Tools",
+            "Basic Sql Queries",
+            "Improving Queries",
+            "Database Design",
+            "Intermediate SQL",
+            "Advanced SQL",
+            "Procedural Language",
+            "Database Objects",
+            "Database Administration"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Database Developement Tools",
+          "subTittles": [
+            "MySQL",
+            "Oracle",
+            "PostgreSQL",
+            "Microsoft SQL Server.",
+            "MongoDB",
+            "Redis",
+            "Elasticsearch",
+            "Cassandra"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Modifing Data",
+          "subTittles": [
+            "Data Definition Language (DDL)",
+            "Data Manipulation Language (DML)",
+            "Data Control Language(DCL)",
+            "Transaction Control Language(TCL)",
+            "Data Query Language (DQL)"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "Improving Queries",
+          "subTittles": [
+            "Indexes",
+            "Primary Keys",
+            "Foreign Keys",
+            "Constraints",
+            "Column and Table Aliases"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "Database Design",
+          "subTittles": [
+            "Normalisation (First to Third)",
+            "Entity Relationship Diagram",
+            "Further Normal Forms (3.5 to 5)",
+            "Data Warehouse",
+            "Auto-Increment"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "Intermediate SQL",
+          "subTittles": [
+            "Temporary Tables",
+            "Transactions",
+            "Using Functions",
+            "Types of Commands",
+            "Subqueries",
+            "Bind Variables",
+            "Limiting Rows",
+            "CTEs and With Clause",
+            "Set Operators",
+            "Execution Plans",
+            "Comments on Objects",
+            "Importing Data",
+            "JSON in SQL"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "Advanced SQL",
+          "subTittles": [
+            "Pivot and Unpivot",
+            "Regular Expressions",
+            "Isolation Levels",
+            "Continuous Integration and Delivery",
+            "Hierarchical Data in SQL",
+            "Analytic Functions",
+            "Character Sets",
+            "Merge Command",
+            "External Tables",
+            "Dynamic SQL",
+            "SQL Injection"
+          ]
+        },
+        {
+          "id": "h",
+          "tittle": "Procedural Language",
+          "subTittles": [
+            "Oracle PL/SQL",
+            "SQL Server T-SQL",
+            "MySQL Stored Procedures",
+            "PostgreSQL pl/pgSQL"
+          ]
+        },
+        {
+          "id": "i",
+          "tittle": "Datatbase Objects",
+          "subTittles": ["Views", "Oracle Synonyms"]
+        },
+        {
+          "id": "j",
+          "tittle": "Database Administration",
+          "subTittles": [
+            "Privileges",
+            "Roles",
+            "User Management",
+            "Data Dictionary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tittle": "Designing Tools",
+      "subTittle": "Adobe",
+      "jobsCanBeApplied": "Can get a job in any Designing Based Comapany.",
+      "provider": "IIT Madras",
+      "skills": "Advanced 3D Graphics and Designing",
+      "jobTittles": "Graphics designer or Game Developer",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": 50,
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/VtLXKU1PpRU",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://i.ytimg.com/vi/bFeZ7OlmoZc/maxresdefault.jpg",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to become a 3d designer",
+          "subTittles": [
+            "Photoshop",
+            "Illustrator",
+            "After Effects",
+            "Procreate",
+            "Cinema 4D / Blender or Maya",
+            "Unreal Engine or Unity",
+            "Z Brush",
+            "Substance painter",
+            "Mixamo",
+            "Marvelous Designer",
+            "World Creator",
+            "Houdini or Xparticles",
+            "Real flow"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Photoshop",
+          "subTittles": [
+            "Pixels",
+            "color correction",
+            " creating textures for 3D software",
+            "organizing storyboards",
+            "photo manipulation",
+            "basic graphic design"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Illustrator",
+          "subTittles": [
+            "Creating shapes that you can bring into 3D software to create splines",
+            "logos",
+            "icons",
+            "typography",
+            "labels",
+            "basic graphic design"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "After Effects",
+          "subTittles": [
+            "Color correction for 3D animations",
+            "2D motion graphics",
+            "combing 3D animations from multiple animators"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "Procreate",
+          "subTittles": [
+            "Sketching storyboards",
+            "drawing out ideas",
+            "learning to draw better",
+            "digital painting",
+            "illustrating"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "Cinema 4D / Blender or Maya",
+          "subTittles": [
+            "3D animation",
+            "3D modeling",
+            "3D sculpting",
+            "3D design",
+            "learning perspective for drawing"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "Unreal Engine or Unity ",
+          "subTittles": [
+            "Real-time rendering",
+            "game development",
+            "Virtual Reality",
+            "Augmented Reality"
+          ]
+        },
+        {
+          "id": "h",
+          "tittle": "Z Brush",
+          "subTittles": ["3D sculpting"]
+        },
+        {
+          "id": "i",
+          "tittle": "Substance painter",
+          "subTittles": [
+            "Painting on 3D models",
+            "creating complex UV maps",
+            "creating textures for 3D"
+          ]
+        },
+        {
+          "id": "j",
+          "tittle": "Mixamo",
+          "subTittles": [
+            "Utilizing motion capture for 3D animation",
+            "auto rigging 3D characters"
+          ]
+        },
+        {
+          "id": "k",
+          "tittle": "Marvelous Designer",
+          "subTittles": [
+            "3D clothing creation and simulation",
+            "creating fabrics",
+            "creating 3D pillows"
+          ]
+        },
+        {
+          "id": "l",
+          "tittle": "World Creator",
+          "subTittles": ["Creating realistic terrain for 3D worlds"]
+        },
+        {
+          "id": "m",
+          "tittle": "Houdini or Xparticles",
+          "subTittles": [" Particle simulations like water, sand, snow etc"]
+        },
+        {
+          "id": "n",
+          "tittle": "Real flow",
+          "subTittles": [" Dedicated water simulations in 3D"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tittle": "Java FullStack Developer Training",
+      "subTittle": "Java Developer",
+      "jobsCanBeApplied": "Can apply to Full Stack Java Developer.",
+      "provider": "IIT Madras",
+      "skills": "Full Stack Developer",
+      "jobTittles": "web Designer",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": 50,
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/eIrMbAQSU34",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://logusti.com.br/wp-content/uploads/2018/12/AngularJS-e-Java2-1.jpg",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to become a UI Developer.",
+          "subTittles": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "TypeScript",
+            "NodeJS",
+            "NodeJS"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "HTML Fundamentals Introduction",
+          "subTittles": [
+            "HTML Text",
+            "HTML Lists",
+            "HTML Links",
+            "HTML Tables",
+            "HTML Form and Form Elements",
+            "HTML Form and Form Elements",
+            "HTML Form inputs",
+            "HTML Form and Form Elements"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "HTML5",
+          "subTittles": [
+            "Introduction to HTML5",
+            "Page Layout Semantic Elements",
+            "Form Elements and Attributes",
+            "Working with Canvas",
+            "Scalable Vector Graphics (SVG)",
+            "Media - Audio and Video",
+            "Drag and Drop",
+            "Web Storage"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "CSS",
+          "subTittles": [
+            "Working with CSS",
+            "CSS Rules",
+            "CSS Selectors",
+            "CSS Cascade",
+            "CSS Fonts and Typography",
+            "Working with Links and List",
+            "Working with Table",
+            "CSS Color & Positioning",
+            "CSS Box Model",
+            "CSS Display and Positioning"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "CSS3",
+          "subTittles": [
+            "Working with CSS3",
+            "CSS3 Borders",
+            "CSS3 Backgrounds",
+            "CSS3 Gradients",
+            "CSS3 Text Effects",
+            "CSS3 Web Fonts",
+            "CSS3 2D Transforms",
+            "CSS3 3D Transforms",
+            "CSS3 Transitions and Animations"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "JAVASCRIPT",
+          "subTittles": [
+            "Introduction",
+            "Variable Declaration",
+            "Arithmetic Operations",
+            "Array",
+            "Array Methods",
+            "String",
+            "String Method",
+            "JavaScript Function",
+            "Function Closure",
+            "Prototype Chaining",
+            "Regular Expression",
+            "Error Handling",
+            "Event Listener",
+            "Date Methods",
+            "JavaScript Form Validations",
+            "Navigator",
+            "E6 Features"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "jQuery",
+          "subTittles": [
+            "jQuery Introduction",
+            "jQuery Selectors",
+            "Find Dropdown Selected Item",
+            "jQuery Document Traversal",
+            "jQuery Event",
+            "jQuery Effects",
+            "jQuery Effects",
+            "jQuery UI"
+          ]
+        },
+        {
+          "id": "h",
+          "tittle": "Bootstrap3",
+          "subTittles": [
+            "Working with Bootstrap 3",
+            "Bootstrap Grid System",
+            "Bootstrap Text/Typography",
+            "Bootstrap Images",
+            "Bootstrap Jumbotron",
+            "Bootstrap Buttons",
+            "Bootstrap Button Groups",
+            "Bootstrap Glyphicons",
+            "Bootstrap Pagination",
+            "Bootstrap Pager",
+            "Bootstrap List Groups",
+            "Bootstrap Forms",
+            "Bootstrap Inputs",
+            "Bootstrap Carousel",
+            "Bootstrap Plugins"
+          ]
+        },
+        {
+          "id": "i",
+          "tittle": "TYPESCRIPT",
+          "subTittles": [
+            "Introduction",
+            "Features of Typescript",
+            "Why use Typescript",
+            "Component of Typescript",
+            "Typescript – Environment Setup",
+            "Basic Syntax (Compiler Flags, Identifiers & Object Orientation)",
+            "Inferred Typing in Typescript ",
+            "Variable Declaration Types",
+            "Tuples, Enum, Nullable, Union (New types in Typescript)",
+            "Typescript Decision making conditions",
+            "Typescript Function",
+            "Inheritance and Constructor",
+            "Static properties and Methods",
+            "Abstract Class",
+            "Private Constructor",
+            "Singletons",
+            "Namespace Modules"
+          ]
+        },
+        {
+          "id": "j",
+          "tittle": "Angular",
+          "subTittles": [
+            "Setting up environment for Angular ( NodeJS, npm)",
+            "Modules",
+            "Architecture",
+            "Components",
+            "Templates",
+            "Directives",
+            "Meta Data",
+            "Data Binding",
+            "Curd Operations Using HTTP",
+            "Error Handling",
+            "Routing",
+            "Navigation",
+            "Forms",
+            "CLI",
+            "Dependency Injection",
+            "Data Display",
+            "Handling Events",
+            "Custom Pipes",
+            "User Input",
+            "Life Cycle Hooks",
+            "Nested Containers",
+            "Services"
+          ]
+        },
+        {
+          "id": "k",
+          "tittle": "Skills Required to become a Backend/Server-side Developer.",
+          "subTittles": [
+            "Java - 20 days",
+            "Servlet / JSP – 2 days",
+            "Database (MySQL) – 1 day",
+            "Maven – 1 day",
+            "Hibernate framework.  – 2 days",
+            "Spring Framework (Core, AOP, MVC, DATA JPA, JDBC) – 10 days",
+            "Server (Tomcat) – 1 day",
+            "Web Service (REST & SOAP) – 1 day",
+            "Junit (Unit Testing) – 1 day",
+            "Security – 1 day",
+            "Git – 1 day",
+            "Agile – 1 day",
+            "DevOps Basics – 1 day",
+            "Docker – 1 day",
+            "Kubernetes – 1 day",
+            "Cloud Computing (Basics) – 1 day",
+            "Unix Basics – 1 day",
+            "Basic exposure to HTML and CSS – 1 day",
+            "XML, YML – 1 day"
+          ]
+        },
+        {
+          "id": "l",
+          "tittle": "Core Java.",
+          "subTittles": [
+            "How to install Java",
+            "Difference between JDK and JRE",
+            "JDK folder structure",
+            "How to set the environment variable (PATH and JAVA_HOME )",
+            "What is JVM and byte code?",
+            "Understand the development tools available in JAVA_HOME\bin directory.",
+            "What is class and object? How to create object?",
+            "What is keyword?",
+            "What is local variable? What is identifier?",
+            "What is comment? Single line and multi-line",
+            "Data types – primitive and reference / object",
+            "Variable types – Local, instance, class",
+            "Casting – implicit, explicit",
+            "Operator – Arithmetic , Relational , Ternary",
+            "Loops and Control structure",
+            "Method / Function / Constructor",
+            "Overloading, Overriding",
+            "Variable scopes",
+            "Array",
+            "String class",
+            "Packages and access modifiers",
+            "Instance member vs class members",
+            "this,  super , final",
+            "Inheritance",
+            "Interface vs abstract class",
+            "Exception Handling",
+            "Collections",
+            "Java 5 and 7 features",
+            "Inner class",
+            "Java 8",
+            "JDBC",
+            "Thread Basics",
+            "Singleton pattern"
+          ]
+        },
+        {
+          "id": "m",
+          "tittle": "Servlet/JSP",
+          "subTittles": [
+            "Static web pages, Dynamic Web application",
+            "What is HTTP Protocol?",
+            "What is Http Request and Http Response?",
+            "Request Headers / body / Query Params",
+            "Response Headers / status code / body",
+            "Headers: Accept / Content – Type / Authorization ",
+            "Response Status Codes",
+            "What is JEE?",
+            "What is API , Specification and Providers?",
+            "1 – Tier, 2 – Tier, 3 – Tier, N – Tier architecture / application",
+            "Web Server?",
+            "What is web container / EJB container?",
+            "What is Servlet and Lifecycle ?",
+            "Types of Http Request methods",
+            "GET vs POST",
+            "HttpRequest , HttpResponse object",
+            "ServletContext object",
+            "HttpSession management",
+            "Cookies",
+            "What is Interceptor?",
+            "What is Filter?",
+            "What is Listener? Types of Listener?",
+            "What is JSP?",
+            "Tag Lib Libraires",
+            "MVC Pattern"
+          ]
+        },
+        {
+          "id": "n",
+          "tittle": "Database",
+          "subTittles": [
+            "What is Database?",
+            "How to install My SQL and My SQL workbench?",
+            "How to create database and table in My SQL?",
+            "What is Table/Row/Column?",
+            "What is Primary key?",
+            "What is Foreign Key?",
+            "What is composite key?",
+            "What is Auto increment?",
+            "What is NOT NULL constraint?",
+            "What is unique key?",
+            "CRUD operation in Database?",
+            "Scalar vs Group functions?",
+            "Relationship between tables? One to one, one to many, many to many",
+            "Inner join, outer join, self-join, cross join"
+          ]
+        },
+        {
+          "id": "o",
+          "tittle": "Maven",
+          "subTittles": [
+            "What is Maven",
+            "How to set up maven",
+            "Create/Import a Maven project in eclipse",
+            "Maven POM explaination",
+            "How to define the dependency",
+            "groupID/artfiactId/Version of project  ",
+            "Packaging types - Default Package type",
+            "Project Inheritance in maven",
+            "Multi Module Projects in Maven",
+            "Maven project structure",
+            "Maven transitive dependency",
+            "Maven dependency scope",
+            "Maven Repositories - Local, Intermediate, public",
+            "Maven Plugins",
+            "Maven support in eclipse"
+          ]
+        },
+        {
+          "id": "p",
+          "tittle": "Hibernate",
+          "subTittles": [
+            "What is Hibernate?",
+            "What is ORM and ORM framework?",
+            "What is DAO pattern?",
+            "Hibernate Architecture components?",
+            "Persistence/ Entity class",
+            "Annotations used in Entity class.",
+            "Entity class with component class",
+            "Mapping associations",
+            "What is cascade?",
+            "What is Lazy loading Eager loading?",
+            "Object state",
+            "Mapping inheritance",
+            "HQL"
+          ]
+        },
+        {
+          "id": "q",
+          "tittle": "Spring",
+          "subTittles": [
+            "What is Spring?",
+            "Why is spring called application framework?",
+            "Spring container",
+            "Spring framework",
+            "Spring benefits",
+            "Spring Features",
+            "IOC and AOP"
+          ]
+        },
+        {
+          "id": "r",
+          "tittle": "Spring Core",
+          "subTittles": [
+            "What is Bean",
+            "Spring IOC container",
+            "How to define the spring bean",
+            "Bean Factory vs Application Context",
+            "Spring lifecycle",
+            "Bean scopes"
+          ]
+        },
+        {
+          "id": "s",
+          "tittle": "Spring AOP",
+          "subTittles": [
+            "What is AOP and benefits",
+            "AOP Concepts",
+            "Types of advice"
+          ]
+        },
+        {
+          "id": "t",
+          "tittle": "Spring MVC",
+          "subTittles": [
+            "What is the use of Spring MVC?",
+            "Important components of Spring MVC",
+            "What is Front Controller pattern",
+            "What is DispatchServlet",
+            "Annotations used in Spring MVC",
+            "Controller and RestController",
+            "RequestMapping",
+            "RequestParam",
+            "PathVariable",
+            "RequestHeader",
+            "ModelAttribute",
+            "RequestBody",
+            "Validated",
+            "Component , Service, Repository",
+            "Component Scan"
+          ]
+        },
+        {
+          "id": "u",
+          "tittle": "Spring JDBC",
+          "subTittles": [
+            "What is DataSource?",
+            "What is JdbcTemplate ?",
+            "What is RowMapper?",
+            "What is PreparedStatementSetter",
+            "How to do CRUD with Spring JDBC?"
+          ]
+        },
+        {
+          "id": "v",
+          "tittle": "Spring Data JPA",
+          "subTittles": [
+            "Benefit of Spring DATA JPA",
+            "How to create a Spring Data Repository class",
+            "CRUDRepository, JpaRepository, PagingSortingRepository",
+            "@Query ",
+            "Filter the records using findBy…",
+            "CRUD with Spring DATA JPA"
+          ]
+        },
+        {
+          "id": "w",
+          "tittle": "Spring Boot",
+          "subTittles": [
+            "How to create a Spring boot application?",
+            "Advantage of Spring Boot?",
+            "What is Spring boot starter?",
+            "Spring Boot Application main class  / @SpringBootApplication",
+            "@EnableAutoConfiguraion / @Configuration",
+            "application.properties or application.yml",
+            "Spring boot dev tool starter",
+            "Spring boot actuator",
+            "How to run the Spring boot application",
+            "@Value , @ConfigurationProperties"
+          ]
+        },
+        {
+          "id": "x",
+          "tittle": "Server",
+          "subTittles": [
+            "What is Server?",
+            "Types of Server?",
+            "What is WebServer?",
+            "How to install Tomcate Server?",
+            "How to deploy a application in the Tomcate Server"
+          ]
+        },
+        {
+          "id": "y",
+          "tittle": "Webservice",
+          "subTittles": [
+            "What is Distributed Computing?",
+            "What is SOA Architecture?",
+            "What is Webservice?",
+            "What is interoperable?",
+            "Homogeneous/Heterogeneous Applications?",
+            "Transport protocol vs Message protocol?",
+            "Synchronous vs Asynchronous?",
+            "Webservice Benefits?",
+            "Types of Webservice?"
+          ]
+        },
+        {
+          "id": "z",
+          "tittle": "Junit",
+          "subTittles": [
+            "Type of Testing?",
+            "What is unit testing? who will do this?",
+            "Testing frameworks?",
+            "Writing first JUnit test?",
+            "JUnit test lifecycle and related annotations?",
+            "What is Mock Frameworks?",
+            "Writing JUnit test with Mocktio?",
+            "Mocktio annotations?"
+          ]
+        },
+        {
+          "id": "ab",
+          "tittle": "Security",
+          "subTittles": [
+            "Security Introduction",
+            "Network/application/database data Security",
+            "HTTPS and SSL Certificate?",
+            "SSL Authentication?",
+            "SSL Authentication?",
+            "Two-factor authentication?",
+            "Securing API with JWT?"
+          ]
+        },
+        {
+          "id": "ac",
+          "tittle": "Git",
+          "subTittles": [
+            "What is Version Control? Git, SVN, CVS",
+            "What is repository?",
+            "How to install Git on Windows?",
+            "How to create a account in GitHub?",
+            "How to create a repository in GitHub?",
+            "Setting Up SSH Authentication to use GitHub?",
+            "Git commands?",
+            "How to create braches? ",
+            "What is merging?",
+            "What is pull request in Git?",
+            "GitHub vs Bitbucket?"
+          ]
+        },
+        {
+          "id": "ad",
+          "tittle": "Agile",
+          "subTittles": [
+            "What is AgileModel-Scrum?",
+            "Scrum Team?",
+            "Role of each member in the Scrum Team?",
+            "Product Planning/Spring Planning/Sprint Execution",
+            "Sprint Review/Spring Retrospective Meeting"
+          ]
+        },
+        {
+          "id": "ae",
+          "tittle": "Docker",
+          "subTittles": [
+            "Docker Introduction (VM, Container)",
+            "Docker Architecture",
+            "Installing Docker Desktop on window",
+            "Building Docker images - using dockerFile",
+            "How to create/drop Docker container",
+            "How to create MySQL DB, Tomcat Server using Docker image",
+            "Docker commands"
+          ]
+        },
+        {
+          "id": "af",
+          "tittle": "Kubernetes",
+          "subTittles": [
+            "What is Kubernetes? Why Kubernetes?",
+            "Kubernetes Architecture",
+            "Kubernetes Architecture",
+            "kubectl commands ",
+            "What us PODs?",
+            "Replication Controllers and ReplicaSets?",
+            "Deploy/Scaleup an application using Kubernetes?"
+          ]
+        },
+        {
+          "id": "ag",
+          "tittle": "Cloud Computing(Basics)",
+          "subTittles": [
+            "What is Cloud Computing?",
+            "Service Models?",
+            "Essential Characteristics?",
+            "What is Data Center?",
+            "How to create a instance in AWS?",
+            "How to run a Spring Boot application in AWS?"
+          ]
+        },
+        {
+          "id": "ah",
+          "tittle": "Unix(Basics)",
+          "subTittles": [
+            "Unix basic commands",
+            "How to install Java in Unix",
+            "How to use Putty",
+            "How to use WinScp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tittle": "UI Developer Zero to Master",
+      "subTittle": "UI Developer",
+      "jobsCanBeApplied": "Can apply to Front end Developer jobs.",
+      "provider": "IIT Madras",
+      "skills": "Advanced Frontend Developer",
+      "jobTittles": "UI/UX Developer",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": 50,
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/G3e-cpL7ofc",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://miro.medium.com/max/700/1*tJAF8FQkyy3ZSkxN5OYpnQ.jpeg",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to become a UI Developer.",
+          "subTittles": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "TypeScript",
+            "NodeJS",
+            "NodeJS"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "HTML Fundamentals Introduction",
+          "subTittles": [
+            "HTML Text",
+            "HTML Lists",
+            "HTML Links",
+            "HTML Tables",
+            "HTML Form and Form Elements",
+            "HTML Form and Form Elements",
+            "HTML Form inputs",
+            "HTML Form and Form Elements"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "HTML5",
+          "subTittles": [
+            "Introduction to HTML5",
+            "Page Layout Semantic Elements",
+            "Form Elements and Attributes",
+            "Working with Canvas",
+            "Scalable Vector Graphics (SVG)",
+            "Media - Audio and Video",
+            "Drag and Drop",
+            "Web Storage"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "CSS",
+          "subTittles": [
+            "Working with CSS",
+            "CSS Rules",
+            "CSS Selectors",
+            "CSS Cascade",
+            "CSS Fonts and Typography",
+            "Working with Links and List",
+            "Working with Table",
+            "CSS Color & Positioning",
+            "CSS Box Model",
+            "CSS Display and Positioning"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "CSS3",
+          "subTittles": [
+            "Working with CSS3",
+            "CSS3 Borders",
+            "CSS3 Backgrounds",
+            "CSS3 Gradients",
+            "CSS3 Text Effects",
+            "CSS3 Web Fonts",
+            "CSS3 2D Transforms",
+            "CSS3 3D Transforms",
+            "CSS3 Transitions and Animations"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "JAVASCRIPT",
+          "subTittles": [
+            "Introduction",
+            "Variable Declaration",
+            "Arithmetic Operations",
+            "Array",
+            "Array Methods",
+            "String",
+            "String Method",
+            "JavaScript Function",
+            "Function Closure",
+            "Prototype Chaining",
+            "Regular Expression",
+            "Error Handling",
+            "Event Listener",
+            "Date Methods",
+            "JavaScript Form Validations",
+            "Navigator",
+            "E6 Features"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "jQuery",
+          "subTittles": [
+            "jQuery Introduction",
+            "jQuery Selectors",
+            "Find Dropdown Selected Item",
+            "jQuery Document Traversal",
+            "jQuery Event",
+            "jQuery Effects",
+            "jQuery Effects",
+            "jQuery UI"
+          ]
+        },
+        {
+          "id": "h",
+          "tittle": "Bootstrap3",
+          "subTittles": [
+            "Working with Bootstrap 3",
+            "Bootstrap Grid System",
+            "Bootstrap Text/Typography",
+            "Bootstrap Images",
+            "Bootstrap Jumbotron",
+            "Bootstrap Buttons",
+            "Bootstrap Button Groups",
+            "Bootstrap Glyphicons",
+            "Bootstrap Pagination",
+            "Bootstrap Pager",
+            "Bootstrap List Groups",
+            "Bootstrap Forms",
+            "Bootstrap Inputs",
+            "Bootstrap Carousel",
+            "Bootstrap Plugins"
+          ]
+        },
+        {
+          "id": "i",
+          "tittle": "TYPESCRIPT",
+          "subTittles": [
+            "Introduction",
+            "Features of Typescript",
+            "Why use Typescript",
+            "Component of Typescript",
+            "Typescript – Environment Setup",
+            "Basic Syntax (Compiler Flags, Identifiers & Object Orientation)",
+            "Inferred Typing in Typescript ",
+            "Variable Declaration Types",
+            "Tuples, Enum, Nullable, Union (New types in Typescript)",
+            "Typescript Decision making conditions",
+            "Typescript Function",
+            "Inheritance and Constructor",
+            "Static properties and Methods",
+            "Abstract Class",
+            "Private Constructor",
+            "Singletons",
+            "Namespace Modules"
+          ]
+        },
+        {
+          "id": "j",
+          "tittle": "Angular",
+          "subTittles": [
+            "Setting up environment for Angular ( NodeJS, npm)",
+            "Modules",
+            "Architecture",
+            "Components",
+            "Templates",
+            "Directives",
+            "Meta Data",
+            "Data Binding",
+            "Curd Operations Using HTTP",
+            "Error Handling",
+            "Routing",
+            "Navigation",
+            "Forms",
+            "CLI",
+            "Dependency Injection",
+            "Data Display",
+            "Handling Events",
+            "Custom Pipes",
+            "User Input",
+            "Life Cycle Hooks",
+            "Nested Containers",
+            "Services"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tittle": "Java Developer Training",
+      "subTittle": "Java Developer",
+      "jobsCanBeApplied": "Can apply to Java Developer Jobs.",
+      "provider": "IIT Madras",
+      "skills": "Java, Spring Boot",
+      "jobTittles": "Java Developer",
+      "preRequirements": "Basic Computer knowledge.",
+      "averageTimeToFinishCourse": "80 Days",
+
+      "roadMapUrl": "",
+      "youtubeUrl": "https://www.youtube.com/embed/zvR-Oif_nxg",
+      "useFulLink": "https://roadmap.sh/java",
+      "imageUrl": "https://developer.okta.com/assets-jekyll/blog/spring-boot-docker/spring-boot-docker-7869dc100d2d806bcf6222147a4b1bcb74bea4d21a62b2b6d726fdec8932ca0b.png",
+      "courseContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to become a Backend/Server-side Developer.",
+          "subTittles": [
+            "Java - 20 days",
+            "Servlet / JSP – 2 days",
+            "Database (MySQL) – 1 day",
+            "Maven – 1 day",
+            "Hibernate framework.  – 2 days",
+            "Spring Framework (Core, AOP, MVC, DATA JPA, JDBC) – 10 days",
+            "Server (Tomcat) – 1 day",
+            "Web Service (REST & SOAP) – 1 day",
+            "Junit (Unit Testing) – 1 day",
+            "Security – 1 day",
+            "Git – 1 day",
+            "Agile – 1 day",
+            "DevOps Basics – 1 day",
+            "Docker – 1 day",
+            "Kubernetes – 1 day",
+            "Cloud Computing (Basics) – 1 day",
+            "Unix Basics – 1 day",
+            "Basic exposure to HTML and CSS – 1 day",
+            "XML, YML – 1 day"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Core Java.",
+          "subTittles": [
+            "How to install Java",
+            "Difference between JDK and JRE",
+            "JDK folder structure",
+            "How to set the environment variable (PATH and JAVA_HOME )",
+            "What is JVM and byte code?",
+            "Understand the development tools available in JAVA_HOME\bin directory.",
+            "What is class and object? How to create object?",
+            "What is keyword?",
+            "What is local variable? What is identifier?",
+            "What is comment? Single line and multi-line",
+            "Data types – primitive and reference / object",
+            "Variable types – Local, instance, class",
+            "Casting – implicit, explicit",
+            "Operator – Arithmetic , Relational , Ternary",
+            "Loops and Control structure",
+            "Method / Function / Constructor",
+            "Overloading, Overriding",
+            "Variable scopes",
+            "Array",
+            "String class",
+            "Packages and access modifiers",
+            "Instance member vs class members",
+            "this,  super , final",
+            "Inheritance",
+            "Interface vs abstract class",
+            "Exception Handling",
+            "Collections",
+            "Java 5 and 7 features",
+            "Inner class",
+            "Java 8",
+            "JDBC",
+            "Thread Basics",
+            "Singleton pattern"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Servlet/JSP",
+          "subTittles": [
+            "Static web pages, Dynamic Web application",
+            "What is HTTP Protocol?",
+            "What is Http Request and Http Response?",
+            "Request Headers / body / Query Params",
+            "Response Headers / status code / body",
+            "Headers: Accept / Content – Type / Authorization ",
+            "Response Status Codes",
+            "What is JEE?",
+            "What is API , Specification and Providers?",
+            "1 – Tier, 2 – Tier, 3 – Tier, N – Tier architecture / application",
+            "Web Server?",
+            "What is web container / EJB container?",
+            "What is Servlet and Lifecycle ?",
+            "Types of Http Request methods",
+            "GET vs POST",
+            "HttpRequest , HttpResponse object",
+            "ServletContext object",
+            "HttpSession management",
+            "Cookies",
+            "What is Interceptor?",
+            "What is Filter?",
+            "What is Listener? Types of Listener?",
+            "What is JSP?",
+            "Tag Lib Libraires",
+            "MVC Pattern"
+          ]
+        },
+        {
+          "id": "d",
+          "tittle": "Database",
+          "subTittles": [
+            "What is Database?",
+            "How to install My SQL and My SQL workbench?",
+            "How to create database and table in My SQL?",
+            "What is Table/Row/Column?",
+            "What is Primary key?",
+            "What is Foreign Key?",
+            "What is composite key?",
+            "What is Auto increment?",
+            "What is NOT NULL constraint?",
+            "What is unique key?",
+            "CRUD operation in Database?",
+            "Scalar vs Group functions?",
+            "Relationship between tables? One to one, one to many, many to many",
+            "Inner join, outer join, self-join, cross join"
+          ]
+        },
+        {
+          "id": "e",
+          "tittle": "Maven",
+          "subTittles": [
+            "What is Maven",
+            "How to set up maven",
+            "Create/Import a Maven project in eclipse",
+            "Maven POM explaination",
+            "How to define the dependency",
+            "groupID/artfiactId/Version of project  ",
+            "Packaging types - Default Package type",
+            "Project Inheritance in maven",
+            "Multi Module Projects in Maven",
+            "Maven project structure",
+            "Maven transitive dependency",
+            "Maven dependency scope",
+            "Maven Repositories - Local, Intermediate, public",
+            "Maven Plugins",
+            "Maven support in eclipse"
+          ]
+        },
+        {
+          "id": "f",
+          "tittle": "Hibernate",
+          "subTittles": [
+            "What is Hibernate?",
+            "What is ORM and ORM framework?",
+            "What is DAO pattern?",
+            "Hibernate Architecture components?",
+            "Persistence/ Entity class",
+            "Annotations used in Entity class.",
+            "Entity class with component class",
+            "Mapping associations",
+            "What is cascade?",
+            "What is Lazy loading Eager loading?",
+            "Object state",
+            "Mapping inheritance",
+            "HQL"
+          ]
+        },
+        {
+          "id": "g",
+          "tittle": "Spring",
+          "subTittles": [
+            "What is Spring?",
+            "Why is spring called application framework?",
+            "Spring container",
+            "Spring framework",
+            "Spring benefits",
+            "Spring Features",
+            "IOC and AOP"
+          ]
+        },
+        {
+          "id": "h",
+          "tittle": "Spring Core",
+          "subTittles": [
+            "What is Bean",
+            "Spring IOC container",
+            "How to define the spring bean",
+            "Bean Factory vs Application Context",
+            "Spring lifecycle",
+            "Bean scopes"
+          ]
+        },
+        {
+          "id": "i",
+          "tittle": "Spring AOP",
+          "subTittles": [
+            "What is AOP and benefits",
+            "AOP Concepts",
+            "Types of advice"
+          ]
+        },
+        {
+          "id": "j",
+          "tittle": "Spring MVC",
+          "subTittles": [
+            "What is the use of Spring MVC?",
+            "Important components of Spring MVC",
+            "What is Front Controller pattern",
+            "What is DispatchServlet",
+            "Annotations used in Spring MVC",
+            "Controller and RestController",
+            "RequestMapping",
+            "RequestParam",
+            "PathVariable",
+            "RequestHeader",
+            "ModelAttribute",
+            "RequestBody",
+            "Validated",
+            "Component , Service, Repository",
+            "Component Scan"
+          ]
+        },
+        {
+          "id": "k",
+          "tittle": "Spring JDBC",
+          "subTittles": [
+            "What is DataSource?",
+            "What is JdbcTemplate ?",
+            "What is RowMapper?",
+            "What is PreparedStatementSetter",
+            "How to do CRUD with Spring JDBC?"
+          ]
+        },
+        {
+          "id": "l",
+          "tittle": "Spring Data JPA",
+          "subTittles": [
+            "Benefit of Spring DATA JPA",
+            "How to create a Spring Data Repository class",
+            "CRUDRepository, JpaRepository, PagingSortingRepository",
+            "@Query ",
+            "Filter the records using findBy…",
+            "CRUD with Spring DATA JPA"
+          ]
+        },
+        {
+          "id": "m",
+          "tittle": "Spring Boot",
+          "subTittles": [
+            "How to create a Spring boot application?",
+            "Advantage of Spring Boot?",
+            "What is Spring boot starter?",
+            "Spring Boot Application main class  / @SpringBootApplication",
+            "@EnableAutoConfiguraion / @Configuration",
+            "application.properties or application.yml",
+            "Spring boot dev tool starter",
+            "Spring boot actuator",
+            "How to run the Spring boot application",
+            "@Value , @ConfigurationProperties"
+          ]
+        },
+        {
+          "id": "n",
+          "tittle": "Server",
+          "subTittles": [
+            "What is Server?",
+            "Types of Server?",
+            "What is WebServer?",
+            "How to install Tomcate Server?",
+            "How to deploy a application in the Tomcate Server"
+          ]
+        },
+        {
+          "id": "o",
+          "tittle": "Webservice",
+          "subTittles": [
+            "What is Distributed Computing?",
+            "What is SOA Architecture?",
+            "What is Webservice?",
+            "What is interoperable?",
+            "Homogeneous/Heterogeneous Applications?",
+            "Transport protocol vs Message protocol?",
+            "Synchronous vs Asynchronous?",
+            "Webservice Benefits?",
+            "Types of Webservice?"
+          ]
+        },
+        {
+          "id": "p",
+          "tittle": "Junit",
+          "subTittles": [
+            "Type of Testing?",
+            "What is unit testing? who will do this?",
+            "Testing frameworks?",
+            "Writing first JUnit test?",
+            "JUnit test lifecycle and related annotations?",
+            "What is Mock Frameworks?",
+            "Writing JUnit test with Mocktio?",
+            "Mocktio annotations?"
+          ]
+        },
+        {
+          "id": "q",
+          "tittle": "Security",
+          "subTittles": [
+            "Security Introduction",
+            "Network/application/database data Security",
+            "HTTPS and SSL Certificate?",
+            "SSL Authentication?",
+            "SSL Authentication?",
+            "Two-factor authentication?",
+            "Securing API with JWT?"
+          ]
+        },
+        {
+          "id": "r",
+          "tittle": "Git",
+          "subTittles": [
+            "What is Version Control? Git, SVN, CVS",
+            "What is repository?",
+            "How to install Git on Windows?",
+            "How to create a account in GitHub?",
+            "How to create a repository in GitHub?",
+            "Setting Up SSH Authentication to use GitHub?",
+            "Git commands?",
+            "How to create braches? ",
+            "What is merging?",
+            "What is pull request in Git?",
+            "GitHub vs Bitbucket?"
+          ]
+        },
+        {
+          "id": "s",
+          "tittle": "Agile",
+          "subTittles": [
+            "What is AgileModel-Scrum?",
+            "Scrum Team?",
+            "Role of each member in the Scrum Team?",
+            "Product Planning/Spring Planning/Sprint Execution",
+            "Sprint Review/Spring Retrospective Meeting"
+          ]
+        },
+        {
+          "id": "t",
+          "tittle": "Docker",
+          "subTittles": [
+            "Docker Introduction (VM, Container)",
+            "Docker Architecture",
+            "Installing Docker Desktop on window",
+            "Building Docker images - using dockerFile",
+            "How to create/drop Docker container",
+            "How to create MySQL DB, Tomcat Server using Docker image",
+            "Docker commands"
+          ]
+        },
+        {
+          "id": "u",
+          "tittle": "Kubernetes",
+          "subTittles": [
+            "What is Kubernetes? Why Kubernetes?",
+            "Kubernetes Architecture",
+            "Kubernetes Architecture",
+            "kubectl commands ",
+            "What us PODs?",
+            "Replication Controllers and ReplicaSets?",
+            "Deploy/Scaleup an application using Kubernetes?"
+          ]
+        },
+        {
+          "id": "v",
+          "tittle": "Cloud Computing(Basics)",
+          "subTittles": [
+            "What is Cloud Computing?",
+            "Service Models?",
+            "Essential Characteristics?",
+            "What is Data Center?",
+            "How to create a instance in AWS?",
+            "How to run a Spring Boot application in AWS?"
+          ]
+        },
+        {
+          "id": "w",
+          "tittle": "Unix(Basics)",
+          "subTittles": [
+            "Unix basic commands",
+            "How to install Java in Unix",
+            "How to use Putty",
+            "How to use WinScp"
+          ]
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "id": "a",
+      "tittle": "Java Backend",
+      "subTittle": "Hotel-Management",
+      "provider": "Sam",
+      "skillsRequired": "React,Java(Spring Boot),Sql,GitHub",
+      "required": "Frontend/Backend Developer",
+      "preRequirements": "Coding Skills",
+      "averageTimeToProject": 50,
+      "ProjectsCanBeApplied": "Can add it to your profile as Project Experience",
+      "imageUrl": "https://icon-library.com/images/java-icon-images/java-icon-images-4.jpg",
+      "shortDesc": [
+        "A Hotel Management",
+        "React,Java,Sql",
+        "Required:Frontend/Backend Developer"
+      ],
+      "ProjectContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to work in this Project",
+          "subTittles": [
+            "React-Js",
+            "CSS",
+            "Java",
+            "Spring-Boot",
+            "SQL",
+            "GitHub"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Project Description",
+          "subTittles": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "TypeScript",
+            "NodeJS",
+            "NodeJS"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Project Duration",
+          "subTittles": ["Daily:2hrs", "Total:50Days"]
+        }
+      ]
+    },
+    {
+      "id": "a",
+      "tittle": "Java Backend",
+      "subTittle": "Hotel-Management",
+      "provider": "Sam",
+      "skillsRequired": "React,Java(Spring Boot),Sql,GitHub",
+      "required": "Frontend/Backend Developer",
+      "preRequirements": "Coding Skills",
+      "averageTimeToProject": 50,
+      "shortDesc": [
+        "A Hotel Management",
+        "React,Java,Sql",
+        "Required:Frontend/Backend Developer"
+      ],
+      "ProjectsCanBeApplied": "Can add it to your profile as Project Experience",
+      "imageUrl": "https://icon-library.com/images/java-icon-images/java-icon-images-4.jpg",
+      "projectsContents": [
+        {
+          "id": "a",
+          "tittle": "Skills Required to work in this Project",
+          "subTittles": [
+            "React-Js",
+            "CSS",
+            "Java",
+            "Spring-Boot",
+            "SQL",
+            "GitHub"
+          ]
+        },
+        {
+          "id": "b",
+          "tittle": "Project Description",
+          "subTittles": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "TypeScript",
+            "NodeJS",
+            "NodeJS"
+          ]
+        },
+        {
+          "id": "c",
+          "tittle": "Project Duration",
+          "subTittles": ["Daily:2hrs", "Total:50Days"]
+        }
+      ]
+    }
+  ]
+}

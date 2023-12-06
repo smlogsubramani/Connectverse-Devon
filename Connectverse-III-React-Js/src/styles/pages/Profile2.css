@@ -1,0 +1,62 @@
+.details {
+  color: #050850;
+  font-size: 25px;
+}
+.profile-desc {
+  /* margin-left: 10rem;
+  margin-right: 10rem; */
+  display: flex;
+  justify-content: space-between;
+}
+.profile-container {
+  margin-top: 2rem;
+}
+.personal-details {
+  color: white;
+  background-color: #050850;
+  border-radius: 10px;
+  width: 52rem;
+}
+.details-right {
+  align-items: center;
+  text-align: left;
+}
+.details-left {
+  align-items: center;
+  text-align: left;
+}
+.other-details {
+  color: #050850;
+  margin: 1rem;
+}
+.edit-icon {
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.other-desc {
+  padding-bottom: 1rem;
+}
+.cv-btn {
+  width: 120px;
+  padding: 4px 8px;
+  /* border-radius: 12px; */
+  border: none;
+  background-color: #050850;
+  color: white;
+}
+.cv-btn a {
+  text-decoration: none;
+  color: white;
+}
+@media (max-width: 900px) {
+  .details-left {
+    margin-bottom: 1rem;
+  }
+  .personal-details {
+    width: 20rem;
+    text-align: center;
+  }
+  
+}

@@ -1,0 +1,47 @@
+.card-container {
+  width: 250px;
+  height: 310px;
+  box-shadow: -1px 1px 5px 0px rgba(145, 154, 255, 0.75);
+  border-radius: 10px;
+}
+
+.Project-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  margin-left: 70px;
+  margin-top: 5px;
+}
+.Date {
+  font-style: medium;
+  font-size: 12px;
+  font-weight: 500;
+  color: #878787;
+  padding-left: 10px;
+}
+.ProjectName {
+  font-style: bold;
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  padding-left: 10px;
+}
+.Project-short-desc {
+  font-style: medium;
+  font-size: 15px;
+  font-weight: 500;
+  color: #878787;
+  padding-left: 10px;
+}
+.navigator {
+  color: #050850;
+  text-decoration: none;
+  display: flex;
+  padding-left: 10px;
+}
+.navigator-desc {
+  text-decoration: none;
+  margin-top: 2px;
+  font-weight: 500;
+  color: #050850;
+}

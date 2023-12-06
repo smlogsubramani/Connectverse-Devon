@@ -1,0 +1,155 @@
+.course-header {
+  /* background-image: url("../images/CourseDetail.jpeg"); */
+  padding: 6%;
+}
+
+.course-contents {
+  border-top: 1px solid #bfbfbf;
+  padding-bottom: 60px;
+}
+
+.course-features {
+  font-family: 'Crimson Text', serif;
+  font-family: 'Great Vibes', cursive;
+  border-radius: 1%;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border-top: 1px solid #bfbfbf;
+  margin-bottom: 2%;
+}
+
+.course-feature {
+  text-align: center;
+  border: 3px solid #999;
+  border-radius: 5%;
+  margin: 5%;
+  padding: 5%;
+}
+
+.feature-icon {
+  color: #999;
+  margin-bottom: 5%;
+}
+
+
+.faq-accordion-tab .react-tabs__tab-list {
+    padding-left: 0;
+    list-style-type: none;
+    margin-bottom: 60px;
+    text-align: center;
+    border: none;
+  }
+  
+  .faq-accordion-tab .react-tabs_tab-list .react-tabs_tab {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    color: #555;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px;
+    -webkit-box-shadow: 2px 8px 20px 0 rgba(25, 42, 70, 0.13) !important;
+    box-shadow: 2px 8px 20px 0 rgba(25, 42, 70, 0.13) !important;
+    font-size: 16px;
+    font-weight: 800;
+  }
+  
+  .faq-accordion-tab .react-tabs_tab-list .react-tabs_tab i {
+    font-size: 30px;
+    font-weight: 400;
+  }
+  
+  .faq-accordion-tab .react-tabs_tab-list .react-tabs_tab span {
+    display: block;
+    margin-top: 8px;
+  }
+  
+  .faq-accordion-tab .react-tabs_tab-list .react-tabs_tab:hover {
+    background-color: #fff;
+    color: #555;
+  }
+  
+  .faq-accordion-tab
+    .react-tabs_tab-list
+    .react-tabstab.react-tabs_tab--selected {
+    background-color: #fff;
+    color: #555;
+  }
+  
+  .faq-accordion .accordion {
+    list-style-type: none;
+    padding-left: 0;
+    border: none;
+    margin-bottom: 0;
+  }
+  
+  .faq-accordion .accordion .accordion__item {
+    border-radius: 5px;
+    display: block;
+    -webkit-box-shadow: 2px 8px 20px 0 rgba(25, 42, 70, 0.13) !important;
+    box-shadow: 2px 8px 20px 0 rgba(25, 42, 70, 0.13) !important;
+    background: #fff;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .faq-accordion .accordion .accordion__item:last-child {
+    margin-bottom: 0;
+  }
+  
+  .faq-accordion .accordion .accordion__button {
+    padding: 20px 25px;
+    background-color: #fff;
+    color: #555;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 800;
+  }
+  
+  .faq-accordion .accordion .accordion__button i {
+    position: absolute;
+    left: 25px;
+    top: 18px;
+    font-size: 25px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+  }
+  
+  .faq-accordion .accordion .accordion__button.active i {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  
+  .faq-accordion .accordion .accordion__panel {
+    position: relative;
+    margin-top: -5px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 48px;
+    padding-top: 0;
+  }
+  
+  .faq-accordion .accordion .accordion__panel p {
+    line-height: 1.8;
+  }
+  
+  .tab .tabs-item {
+    display: none;
+  }
+  
+  .tab .tabs-item:first-child {
+    display: block;
+  }
+
+.course-video {
+  text-align: center;
+}
+
+.side-headings {
+  text-align: left;
+  padding: 1%;
+  border-bottom: 1px solid #999;
+}

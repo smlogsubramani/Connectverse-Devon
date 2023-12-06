@@ -1,0 +1,371 @@
+{
+    "English": {
+        "Navbar": {
+            "Home": "Home",
+            "Courses": "Courses",
+            "Projects": "Projects",
+            "Jobs": "Jobs",
+            "Login": "Log-In",
+            "Logout": "Log-Out"
+        },
+        "Header": {
+            "text": "Hunger is not the worst feature of Unemployment; idleness is",
+            "stats": [
+                {
+                    "tittle": "Villages in India",
+                    "value": "640K"
+                },
+                {
+                    "tittle": "Unemployment Rate",
+                    "value": "8.06%"
+                },
+                {
+                    "tittle": "Populations in India",
+                    "value": "1380M"
+                },
+                {
+                    "tittle": "Unemployed people",
+                    "value": "111.2M"
+                }
+            ]
+        },
+        "OUR_MISSION": {
+            "tittle": "OUR MISSION",
+            "subTittles": [
+                "We help the unemployed people to find job after 100 days of work.",
+                "Many people are not aware of the jobs around them",
+                "We educate people about the job around them",
+                "We help them to get their desired job near to their location"
+            ]
+        },
+        "OUR_VISION": {
+            "tittle": "OUR VISION",
+            "subTittles": [
+                "Our vision is to decrease the Unemployment Rate in the upcoming years",
+                "Everyone will able to fulfill all their requirements on their own",
+                "Everyone will not be dependent on others for thier own needs",
+                "Poverty in india due to unemployemnt will be completely eradicated."
+            ]
+        },
+        "Features": {
+            "tittle": "FEATURES",
+            "Features": [
+                {
+                    "icon": "fa fa-comments-o",
+                    "title": "Technical",
+                    "text": "Our website allows the people to learn advanced technical skills to get better job by using various courses provided by us."
+                },
+                {
+                    "icon": "fa fa-bullhorn",
+                    "title": "Non-Technical",
+                    "text": "This website provides a way for unemployed workers to find jobs. We work with a number of company to provide them the manpower they need."
+                },
+                {
+                    "icon": "fa fa-group",
+                    "title": "Jobs",
+                    "text": "Our job mainly provides information  about the jobs in various industries and different jobs."
+                },
+                {
+                    "icon": "fa fa-graduation-cap",
+                    "title": "Learning",
+                    "text": "Utilize the learning resources to upskill yourself for the next job or industry you are interested in! We provide valuable resources about the best jobs in the industry and skills you needto succeed at your desired career."
+                }
+            ]
+        },
+        "About_Us": {
+            "tittle": "About Us",
+            "subTittles": [
+                "Connectverse is a platform where people are educated about the jobs around them and the jobs are allocated to people accordingly to their location.",
+                "We also provide courses to the people which help them gain the skills that are required for the industry.",
+                "Many people get stuck while they start doing projects they can collaborate with the industry level people."
+            ]
+        },
+        "Services": {
+            "tittle": "Services",
+            "subTittle": "Your Privacy is our Responsibility. And Rural Development is our motive...",
+            "Services": [
+                {
+                    "icon": "fa fa-shield",
+                    "name": "Security",
+                    "text": "We keep Connectverse safe, secure, and free of spam and abuse."
+                },
+                {
+                    "icon": "fa fa-cart-arrow-down",
+                    "name": "Education",
+                    "text": "we provide quality education for those who want to learn"
+                },
+                {
+                    "icon": "fa fa-cloud-download",
+                    "name": "Software",
+                    "text": "Subscribe to notifications for new software or download the latest version"
+                },
+                {
+                    "icon": "fa fa-headset",
+                    "name": "support",
+                    "text": "We provide a helpline for the workers to clarify their queries."
+                },
+                {
+                    "icon": "fa fa-plane",
+                    "name": "exposure",
+                    "text": "press here to look for companies we recenty tied up with."
+                },
+                {
+                    "icon": "fa fa-pie-chart",
+                    "name": "consolidate",
+                    "text": "We made this wesite so generic so it suits both technical and non-technical workers..."
+                }
+            ]
+        },
+        "Contact": {
+            "tittle": "Get In Touch",
+            "subTittle": "Please fill out the form below to send us an email and we will get back to you as soon as possible.",
+            "button": "Send Message"
+        }
+    },
+    "Hindi": {
+        "Navbar": {
+            "Home": "घर",
+            "Courses": "पाठ्यक्रम",
+            "Projects": "परियोजनाओं",
+            "Jobs": "नौकरियां",
+            "Login": "लॉग इन करें",
+            "Logout": "लॉग आउट"
+        },
+        "Header": {
+            "text": "भूख बेरोजगारी की सबसे बुरी विशेषता नहीं है; आलस्य है",
+            "stats": [
+                {
+                    "tittle": "भारत में गांव",
+                    "value": "640K"
+                },
+                {
+                    "tittle": "बेरोजगारी दर",
+                    "value": "8.06%"
+                },
+                {
+                    "tittle": "भारत में जनसंख्या",
+                    "value": "1380M"
+                },
+                {
+                    "tittle": "बेरोजगार लोग",
+                    "value": "111.2M"
+                }
+            ]
+        },
+        "OUR_MISSION": {
+            "tittle": "हमारा विशेष कार्य",
+            "subTittles": [
+                "हम बेरोजगार लोगों को 100 दिनों के काम के बाद नौकरी खोजने में मदद करते हैं।",
+                "बहुत से लोग अपने आस-पास की नौकरियों के बारे में नहीं जानते हैं",
+                "हम लोगों को उनके आसपास के काम के बारे में शिक्षित करते हैं",
+                "हम उनकी वांछित नौकरी को उनके स्थान के करीब लाने में उनकी मदद करते हैं"
+            ]
+        },
+        "OUR_VISION": {
+            "tittle": "हमारी दृष्टि",
+            "subTittles": [
+                "हमारा दृष्टिकोण आने वाले वर्षों में बेरोजगारी दर को कम करना है",
+                "हर कोई अपनी सभी आवश्यकताओं को अपने दम पर पूरा कर सकेगा",
+                "हर कोई अपनी जरूरतों के लिए दूसरों पर निर्भर नहीं रहेगा",
+                "भारत में बेरोजगारी के कारण गरीबी पूरी तरह से समाप्त हो जाएगी।"
+            ]
+        },
+        "Features": {
+            "tittle": "विशेषताएँ",
+            "Features": [
+                {
+                    "icon": "fa fa-comments-o",
+                    "title": "तकनीकी",
+                    "text": "हमारी वेबसाइट लोगों को हमारे द्वारा प्रदान किए गए विभिन्न पाठ्यक्रमों का उपयोग करके बेहतर नौकरी पाने के लिए उन्नत तकनीकी कौशल सीखने की अनुमति देती है।"
+                },
+                {
+                    "icon": "fa fa-bullhorn",
+                    "title": "गैर तकनिकि",
+                    "text": "यह वेबसाइट बेरोजगार श्रमिकों को नौकरी खोजने का एक तरीका प्रदान करती है। हम उन्हें आवश्यक जनशक्ति प्रदान करने के लिए कई कंपनियों के साथ काम करते हैं।"
+                },
+                {
+                    "icon": "fa fa-group",
+                    "title": "नौकरियां",
+                    "text": "हमारा काम मुख्य रूप से विभिन्न उद्योगों और विभिन्न नौकरियों में नौकरियों के बारे में जानकारी प्रदान करता है।"
+                },
+                {
+                    "icon": "fa fa-graduation-cap",
+                    "title": "सीखनाs",
+                    "text": "अगली नौकरी या उद्योग में अपनी रुचि के अनुसार सीखने के संसाधनों का उपयोग करें! हम उद्योग में सर्वोत्तम नौकरियों और आपके वांछित करियर में सफल होने के लिए आवश्यक कौशल के बारे में मूल्यवान संसाधन प्रदान करते हैं।"
+                }
+            ]
+        },
+        "About_Us": {
+            "tittle": "हमारे बारे में",
+            "subTittles": [
+                "Connectverse एक ऐसा प्लेटफॉर्म है जहां लोगों को उनके आसपास की नौकरियों के बारे में शिक्षित किया जाता है और लोगों को उनके स्थान के अनुसार नौकरियां आवंटित की जाती हैं।",
+                "हम लोगों को ऐसे पाठ्यक्रम भी प्रदान करते हैं जो उन्हें उद्योग के लिए आवश्यक कौशल हासिल करने में मदद करते हैं।",
+                "बहुत से लोग अटक जाते हैं जब वे प्रोजेक्ट करना शुरू करते हैं तो वे उद्योग स्तर के लोगों के साथ सहयोग कर सकते हैं।"
+            ]
+        },
+        "Services": {
+            "tittle": "सेवाएं",
+            "subTittle": "आपकी गोपनीयता हमारी जिम्मेदारी है। और ग्रामीण विकास हमारा मकसद...",
+            "Services": [
+                {
+                    "icon": "fa fa-shield",
+                    "name": "सुरक्षा",
+                    "text": "हम Connectverse को सुरक्षित, सुरक्षित और स्पैम और दुरुपयोग से मुक्त रखते हैं।"
+                },
+                {
+                    "icon": "fa fa-cart-arrow-down",
+                    "name": "शिक्षा",
+                    "text": "हम उन लोगों के लिए गुणवत्तापूर्ण शिक्षा प्रदान करते हैं जो सीखना चाहते हैं"
+                },
+                {
+                    "icon": "fa fa-cloud-download",
+                    "name": "सॉफ़्टवेयर",
+                    "text": "नए सॉफ़्टवेयर के लिए सूचनाओं की सदस्यता लें या नवीनतम संस्करण डाउनलोड करें"
+                },
+                {
+                    "icon": "fa fa-headset",
+                    "name": "सहयोग",
+                    "text": "हम श्रमिकों को उनके प्रश्नों को स्पष्ट करने के लिए एक हेल्पलाइन प्रदान करते हैं."
+                },
+                {
+                    "icon": "fa fa-plane",
+                    "name": "संसर्ग",
+                    "text": "जिन कंपनियों के साथ हमने हाल ही में करार किया है, उन्हें देखने के लिए यहां दबाएं।"
+                },
+                {
+                    "icon": "fa fa-pie-chart",
+                    "name": "मजबूत",
+                    "text": "हमने इस वेसाइट को इतना सामान्य बना दिया है कि यह तकनीकी और गैर-तकनीकी दोनों तरह के कर्मचारियों के लिए उपयुक्त है..."
+                }
+            ]
+        },
+        "Contact": {
+            "tittle": "संपर्क में रहो",
+            "subTittle": "हमें एक ईमेल भेजने के लिए कृपया नीचे दिया गया फॉर्म भरें और हम जल्द से जल्द आपसे संपर्क करेंगे।",
+            "button": "मेसेज भेजें"
+        }
+    },
+    "Kanada": {
+        "Navbar": {
+            "Home": "ಮುಖಪುಟ",
+            "Courses": "ಕೋರ್ಸ್‌ಗಳು",
+            "Projects": "ಯೋಜನೆಗಳು",
+            "Jobs": "ಉದ್ಯೋಗಗಳು",
+            "Login": "ಲಾಗಿನ್",
+            "Logout": "ಲಾಗ್ ಔಟ್"
+        },
+        "Header": {
+            "text": "ಹಸಿವು ನಿರುದ್ಯೋಗದ ಕೆಟ್ಟ ಲಕ್ಷಣವಲ್ಲ; ಆಲಸ್ಯ ಆಗಿದೆ",
+            "stats": [
+                {
+                    "tittle": "ಭಾರತದಲ್ಲಿನ ಹಳ್ಳಿಗಳು",
+                    "value": "640K"
+                },
+                {
+                    "tittle": "ನಿರುದ್ಯೋಗ ದರ",
+                    "value": "8.06%"
+                },
+                {
+                    "tittle": "ಭಾರತದಲ್ಲಿನ ಜನಸಂಖ್ಯೆ",
+                    "value": "1380M"
+                },
+                {
+                    "tittle": "ನಿರುದ್ಯೋಗಿಗಳು",
+                    "value": "111.2M"
+                }
+            ]
+        },
+        "OUR_MISSION": {
+            "tittle": "ನಮ್ಮ ಮಿಷನ್",
+            "subTittles": [
+                "100 ದಿನಗಳ ಕೆಲಸದ ನಂತರ ನಿರುದ್ಯೋಗಿಗಳಿಗೆ ಉದ್ಯೋಗ ಹುಡುಕಲು ನಾವು ಸಹಾಯ ಮಾಡುತ್ತೇವೆ.",
+                "ಅನೇಕ ಜನರಿಗೆ ತಮ್ಮ ಸುತ್ತಲಿನ ಉದ್ಯೋಗಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದಿಲ್ಲ",
+                "ನಾವು ಜನರಿಗೆ ಅವರ ಸುತ್ತಲಿನ ಕೆಲಸದ ಬಗ್ಗೆ ಶಿಕ್ಷಣ ನೀಡುತ್ತೇವೆ",
+                "ಅವರು ಬಯಸಿದ ಕೆಲಸವನ್ನು ಅವರ ಸ್ಥಳಕ್ಕೆ ಸಮೀಪದಲ್ಲಿ ಪಡೆಯಲು ನಾವು ಅವರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತೇವೆ"
+            ]
+        },
+        "OUR_VISION": {
+            "tittle": "ನಮ್ಮ ದೃಷ್ಟಿ",
+            "subTittles": [
+                "ಮುಂಬರುವ ವರ್ಷಗಳಲ್ಲಿ ನಿರುದ್ಯೋಗ ದರವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ನಮ್ಮ ದೃಷ್ಟಿ",
+                "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ಎಲ್ಲಾ ಅವಶ್ಯಕತೆಗಳನ್ನು ತಾವಾಗಿಯೇ ಪೂರೈಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+                "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ಸ್ವಂತ ಅಗತ್ಯಗಳಿಗಾಗಿ ಇತರರ ಮೇಲೆ ಅವಲಂಬಿತರಾಗುವುದಿಲ್ಲ",
+                "ನಿರುದ್ಯೋಗದಿಂದಾಗಿ ಭಾರತದಲ್ಲಿನ ಬಡತನವು ಸಂಪೂರ್ಣವಾಗಿ ನಿರ್ಮೂಲನೆಯಾಗುತ್ತದೆ."
+            ]
+        },
+        "Features": {
+            "tittle": "ವೈಶಿಷ್ಟ್ಯಗಳು",
+            "Features": [
+                {
+                    "icon": "fa fa-comments-o",
+                    "title": "ತಾಂತ್ರಿಕ",
+                    "text": "ನಾವು ಒದಗಿಸಿದ ವಿವಿಧ ಕೋರ್ಸ್‌ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಉತ್ತಮ ಉದ್ಯೋಗ ಪಡೆಯಲು ಸುಧಾರಿತ ತಾಂತ್ರಿಕ ಕೌಶಲ್ಯಗಳನ್ನು ಕಲಿಯಲು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಜನರಿಗೆ ಅನುಮತಿಸುತ್ತದೆ."
+                },
+                {
+                    "icon": "fa fa-bullhorn",
+                    "title": "ತಾಂತ್ರಿಕವಲ್ಲದ",
+                    "text": "ಈ ವೆಬ್‌ಸೈಟ್ ನಿರುದ್ಯೋಗಿ ಕಾರ್ಮಿಕರಿಗೆ ಉದ್ಯೋಗಗಳನ್ನು ಹುಡುಕುವ ಮಾರ್ಗವನ್ನು ಒದಗಿಸುತ್ತದೆ. ಅವರಿಗೆ ಅಗತ್ಯವಿರುವ ಮಾನವಶಕ್ತಿಯನ್ನು ಒದಗಿಸಲು ನಾವು ಹಲವಾರು ಕಂಪನಿಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ."
+                },
+                {
+                    "icon": "fa fa-group",
+                    "title": "ಉದ್ಯೋಗಗಳು",
+                    "text": "ನಮ್ಮ ಕೆಲಸವು ಮುಖ್ಯವಾಗಿ ವಿವಿಧ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿನ ಉದ್ಯೋಗಗಳು ಮತ್ತು ವಿವಿಧ ಉದ್ಯೋಗಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ."
+                },
+                {
+                    "icon": "fa fa-graduation-cap",
+                    "title": "ಕಲಿಕೆ",
+                    "text": "ನೀವು ಆಸಕ್ತಿ ಹೊಂದಿರುವ ಮುಂದಿನ ಉದ್ಯೋಗ ಅಥವಾ ಉದ್ಯಮಕ್ಕಾಗಿ ನಿಮ್ಮ ಕೌಶಲ್ಯವನ್ನು ಹೆಚ್ಚಿಸಲು ಕಲಿಕೆಯ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳಿ! ಉದ್ಯಮದಲ್ಲಿನ ಉತ್ತಮ ಉದ್ಯೋಗಗಳು ಮತ್ತು ನಿಮ್ಮ ಅಪೇಕ್ಷಿತ ವೃತ್ತಿಜೀವನದಲ್ಲಿ ನೀವು ಯಶಸ್ವಿಯಾಗಲು ಅಗತ್ಯವಿರುವ ಕೌಶಲ್ಯಗಳ ಕುರಿತು ನಾವು ಅಮೂಲ್ಯವಾದ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ."
+                }
+            ]
+        },
+        "About_Us": {
+            "tittle": "ನಮ್ಮ ಬಗ್ಗೆ",
+            "subTittles": [
+                "ಕನೆಕ್ಟ್‌ವರ್ಸ್ ಎನ್ನುವುದು ಜನರು ತಮ್ಮ ಸುತ್ತಲಿನ ಉದ್ಯೋಗಗಳ ಬಗ್ಗೆ ಶಿಕ್ಷಣ ನೀಡುವ ವೇದಿಕೆಯಾಗಿದೆ ಮತ್ತು ಉದ್ಯೋಗಗಳನ್ನು ಅವರ ಸ್ಥಳಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಜನರಿಗೆ ಹಂಚಲಾಗುತ್ತದೆ.",
+                "ನಾವು ಜನರಿಗೆ ಉದ್ಯಮಕ್ಕೆ ಅಗತ್ಯವಿರುವ ಕೌಶಲ್ಯಗಳನ್ನು ಪಡೆಯಲು ಸಹಾಯ ಮಾಡುವ ಕೋರ್ಸ್‌ಗಳನ್ನು ಸಹ ಒದಗಿಸುತ್ತೇವೆ.",
+                "ಅವರು ಉದ್ಯಮ ಮಟ್ಟದ ಜನರೊಂದಿಗೆ ಸಹಯೋಗ ಮಾಡಬಹುದಾದ ಯೋಜನೆಗಳನ್ನು ಮಾಡಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಅನೇಕ ಜನರು ಸಿಲುಕಿಕೊಳ್ಳುತ್ತಾರೆ."
+            ]
+        },
+        "Services": {
+            "tittle": "ಸೇವೆಗಳು",
+            "subTittle": "ನಿಮ್ಮ ಗೌಪ್ಯತೆ ನಮ್ಮ ಜವಾಬ್ದಾರಿಯಾಗಿದೆ. ಮತ್ತು ಗ್ರಾಮೀಣಾಭಿವೃದ್ಧಿ ನಮ್ಮ ಉದ್ದೇಶ...",
+            "Services": [
+                {
+                    "icon": "fa fa-shield",
+                    "name": "ಭದ್ರತೆ",
+                    "text": "ನಾವು ಕನೆಕ್ಟ್‌ವರ್ಸ್ ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತೇವೆ, ಸುರಕ್ಷಿತವಾಗಿರುತ್ತೇವೆ ಮತ್ತು ಸ್ಪ್ಯಾಮ್ ಮತ್ತು ದುರುಪಯೋಗದಿಂದ ಮುಕ್ತವಾಗಿರುತ್ತೇವೆ."
+                },
+                {
+                    "icon": "fa fa-cart-arrow-down",
+                    "name": "ಶಿಕ್ಷಣ",
+                    "text": "ಕಲಿಯಲು ಬಯಸುವವರಿಗೆ ನಾವು ಗುಣಮಟ್ಟದ ಶಿಕ್ಷಣವನ್ನು ನೀಡುತ್ತೇವೆ"
+                },
+                {
+                    "icon": "fa fa-cloud-download",
+                    "name": "ಸಾಫ್ಟ್ವೇರ್",
+                    "text": "ಹೊಸ ಸಾಫ್ಟ್‌ವೇರ್‌ಗಾಗಿ ಅಧಿಸೂಚನೆಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿ ಅಥವಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+                },
+                {
+                    "icon": "fa fa-headset",
+                    "name": "ಬೆಂಬಲ",
+                    "text": "ಕಾರ್ಮಿಕರ ಪ್ರಶ್ನೆಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ನಾವು ಸಹಾಯವಾಣಿಯನ್ನು ಒದಗಿಸುತ್ತೇವೆ."
+                },
+                {
+                    "icon": "fa fa-plane",
+                    "name": "ಒಡ್ಡುವಿಕೆ",
+                    "text": "ನಾವು ಇತ್ತೀಚೆಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡಿರುವ ಕಂಪನಿಗಳನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಒತ್ತಿರಿ."
+                },
+                {
+                    "icon": "fa fa-pie-chart",
+                    "name": "ಕ್ರೋಢೀಕರಿಸು",
+                    "text": "ನಾವು ಈ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ತುಂಬಾ ಸಾರ್ವತ್ರಿಕವಾಗಿ ಮಾಡಿದ್ದೇವೆ ಆದ್ದರಿಂದ ಇದು ತಾಂತ್ರಿಕ ಮತ್ತು ತಾಂತ್ರಿಕೇತರ ಉದ್ಯೋಗಿಗಳಿಗೆ ಸೂಕ್ತವಾಗಿದೆ..."
+                }
+            ]
+        },
+        "Contact": {
+            "tittle": "ಸಂಪರ್ಕದಲ್ಲಿರಲು",
+            "subTittle": "ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಲು ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಸಾಧ್ಯವಾದಷ್ಟು ಬೇಗ ನಾವು ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ.",
+            "button": "ಸಂದೇಶ ಕಳುಹಿಸಿ"
+        }
+    }
+}

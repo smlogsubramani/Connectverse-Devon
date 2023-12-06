@@ -1,0 +1,23 @@
+.chat-footer {
+  text-align: center;
+  margin: 4rem;
+}
+.chat-input {
+  width: 80%;
+  border: grey;
+
+  height: 50%;
+  border-bottom: 2px solid grey;
+}
+.chat-input:focus {
+  outline: none;
+}
+.send-btn {
+  border-radius: 100%;
+  color: white;
+  background-color: rgb(91, 101, 244);
+  width: 5%;
+  height: 10%;
+  text-align: center;
+  border: none;
+}

@@ -1,0 +1,8 @@
+.project-list-card {
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px #aaaaaa;
+    border: 1px solid #bfbfbf;
+    cursor: pointer;
+    margin: 3%;
+    padding: 2%;
+}

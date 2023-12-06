@@ -1,0 +1,110 @@
+.mainimg {
+  width: 400px;
+  margin-left: 4rem;
+}
+.main-desc {
+  margin: 5rem 0;
+  font-size: 33px;
+  color: #050850;
+}
+.homepage-container1 {
+  margin-top: 2.5rem;
+  height: 80vh;
+}
+@media (max-width: 1000px) {
+  .mainimg {
+    width: 400px;
+    margin-left: 1.5rem;
+  }
+}
+@media (max-width: 900px) {
+  .img-wrap {
+    text-align: center;
+  }
+  .mainimg {
+    margin-left: 0;
+  }
+
+  /* .maindesc-wrap{
+    text-align: center;
+  } */
+}
+.homepage-container2 {
+  height: 80vh;
+  margin-top: 2.5rem;
+}
+.mission-container {
+  color: #050850;
+  padding: 50px;
+}
+.vision-container {
+  border-radius: 10%;
+  background: linear-gradient(to right, #050850 0%, #474dc0 100%);
+  color: white;
+  padding: 50px;
+}
+.vision-sub-heading {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: white;
+}
+.mission-sub-heading {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: #050850;
+}
+.mission-desc {
+  font-weight: 500;
+  font-size: 20px;
+}
+.vision-desc {
+  font-weight: 400;
+  font-size: 20px;
+}
+@media (max-width: 900px) {
+  .homepage-container2 {
+    margin-top: 30rem;
+  }
+}
+.homepage-container3 {
+  height: 80vh;
+  margin-top: 2.5rem;
+}
+.about-container {
+  border-radius: 10%;
+  background: linear-gradient(to right, #050850 0%, #474dc0 100%);
+  color: white;
+  padding: 50px;
+}
+.sub-heading2 {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: white;
+}
+.aboutus-desc {
+  font-weight: 400;
+  font-size: 20px;
+}
+.aboutimg {
+  width: 500px;
+  margin-top: 4rem;
+  margin-left: 20px;
+}
+@media (max-width: 900px) {
+  .features-wrap {
+    margin-top: 31rem;
+  }
+  .homepage-container3 {
+    /* margin-top: rem; */
+    height: auto;
+  }
+  .services-wrap {
+    margin-top: 2rem;
+  }
+}
+.homepage {
+  font-family: "Roboto", sans-serif;
+}

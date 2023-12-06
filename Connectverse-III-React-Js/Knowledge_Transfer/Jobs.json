@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "tittle": "Construction Of School",
+        "description": "This Job is Regarding Construction of Anitha Kumaran CBSE school. It will be done as batch wise...",
+        "noOfDays": 360,
+        "workHoursPerDay": 8,
+        "payPerHour": 100,
+        "location": "Thandupathu",
+        "state": "TamilNadu",
+        "jobType": "CONSTRUCTION",
+        "drivingLicenceRequired": false,
+        "vehicleWanted": false,
+        "requiredWorkers": 500,
+        "workStarted": false,
+        "isTechnicalJob": false,
+        "employerId": "bfbfb18f-6071-4ca5-8c6d-26a3c6b3e364"
+    },
+    {
+        "id": "",
+        "tittle": "",
+        "description": "",
+        "noOfDays": "",
+        "workHoursPerDay": "",
+        "payPerHour": "",
+        "location": "",
+        "state": "",
+        "jobType": "",
+        "drivingLicenceRequired": "",
+        "vehicleWanted": "",
+        "requiredWorkers": "",
+        "workStarted": "",
+        "skillIds": [
+            "",
+            ""
+        ],
+        "employeeId": ""
+    },
+    {
+        "id": "",
+        "tittle": "",
+        "description": "",
+        "noOfDays": "",
+        "workHoursPerDay": "",
+        "payPerHour": "",
+        "location": "",
+        "state": "",
+        "jobType": "",
+        "drivingLicenceRequired": "",
+        "vehicleWanted": "",
+        "requiredWorkers": "",
+        "workStarted": "",
+        "skillIds": [
+            "",
+            ""
+        ],
+        "employeeId": ""
+    },
+    {
+        "id": "",
+        "tittle": "",
+        "description": "",
+        "noOfDays": "",
+        "workHoursPerDay": "",
+        "payPerHour": "",
+        "location": "",
+        "state": "",
+        "jobType": "",
+        "drivingLicenceRequired": "",
+        "vehicleWanted": "",
+        "requiredWorkers": "",
+        "workStarted": "",
+        "skillIds": [
+            "",
+            ""
+        ],
+        "employeeId": ""
+    },
+    {
+        "id": "",
+        "tittle": "",
+        "description": "",
+        "noOfDays": "",
+        "workHoursPerDay": "",
+        "payPerHour": "",
+        "location": "",
+        "state": "",
+        "jobType": "",
+        "drivingLicenceRequired": "",
+        "vehicleWanted": "",
+        "requiredWorkers": "",
+        "workStarted": "",
+        "skillIds": [
+            "",
+            ""
+        ],
+        "employeeId": ""
+    }
+]

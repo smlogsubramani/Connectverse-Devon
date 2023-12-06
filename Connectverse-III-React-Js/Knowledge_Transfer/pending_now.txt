@@ -1,0 +1,2 @@
+1) what to add field @Column(name = "employer_id")
+	private String employerId; to all microservices from jobs service;
